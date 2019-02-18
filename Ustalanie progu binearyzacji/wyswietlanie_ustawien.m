@@ -1,0 +1,20 @@
+cz
+disp('#############EKRAN USTAWIEÑ############# ')
+disp('######################################## ')
+disp('#############STEROWANIE PROGRAMEM############# ')
+disp(' wciœnij 1  aby przejœæ do ekranu g³ównego')
+disp(' wciœnij 2  aby wyjœæ z programu')
+disp('#############USTAWIENIA PROGÓW############# ')
+disp(' wciœnij 3  aby zmieniæ najmniejszy wyœwietlany próg')
+disp(' wciœnij 4  aby zmieniæ najwiêkszy wyœwietlany próg')
+disp('#############USTAWIENIA MACIERZY############# ')
+disp(' wciœnij 5  aby zmieniæ rozmiar x macierzy')
+disp(' wciœnij 6  aby zmieniæ rozmiar y macierzy')
+%disp('#############USTAWIENIA WCZYTYWANIA I ZAPISYWANIA OBRAZÓW############# ')
+disp(' wciœnij 7  aby zmieniæ œcie¿kê wczytania obrazu binearyzowanego')
+%disp(' wciœnij 8  aby zmieniæ œcie¿kê zapisu obrazu wynikowego')
+disp('#############INNE USTAWIENIA############# ')
+disp(' wciœnij 9  aby wyœwietlaæ obrazy w subplocie')
+disp(' wciœnij 10  aby wyœwietlaæ obrazy w figure')
+%to jest ekran menu ustawieñ
+

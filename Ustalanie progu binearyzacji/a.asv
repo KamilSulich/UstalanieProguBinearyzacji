@@ -1,0 +1,17 @@
+c
+%%program masowa binearyzacja,s³u¿¹cy do szybkiego ustalenia jaki próg
+%%binearyzacji rpzyj¹æ i zbinearyzowaæ obraz
+ekran_powitalny
+wybor_menu_glowne = input(' ');
+clc;
+if (wybor_ekran_powitalny==1)%%rozpoczêcie binearyzacji
+    
+ elseif (wybor_ekran_powitalny==2)%%zmiana ustawieñ
+    wyswietlanie_ustawien
+else
+    disp('wcisnieto zly klawisz')
+    disp('wybierz numer 1 lub 2 ')
+end
+
+
+

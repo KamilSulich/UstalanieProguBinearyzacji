@@ -1,0 +1,10 @@
+disp('#############EKRAN G£ÓWNY############### ')
+disp('######################################## ')
+disp('Witaj w programie s³u¿¹cym do masowej binearyzacji obrazów')
+disp('program wyœwietli obraz orginalny i obrazy bêd¹ce wynikiem binearyzacji ')
+disp('z programi od wartoœci najmniejszego wyœwietlanego progu do najwiêkszego z sta³y krokiem. ')
+disp('Aby poruszaæ siê w programie, wpisuj odpowiednie cyfry i wciskaj enter')
+disp('Co chcesz zrobiæ?')
+disp('1-przejdŸ do ekranu zmiany ustawieñ')
+disp('2-rozpocznij binearyzacje')
+%%to jest ekran powitalny
